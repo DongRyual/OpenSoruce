@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C3F8FF"
+    tools:context=".MainActivity"
+    >
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/main_background"
+        tools:layout_editor_absoluteX="150dp"
+        tools:layout_editor_absoluteY="630dp" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="131dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_marginTop="100dp"
+            android:gravity="center"
+
+            >
+
+
+            <ImageButton
+                android:id="@+id/alr"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:layout_margin="20dp"
+                android:background="@drawable/b_ala"
+                android:onClick="onClick"
+                />
+
+            <ImageButton
+                android:id="@+id/stp"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:layout_margin="20dp"
+                android:background="@drawable/b_stop"
+                android:onClick="onClick"
+                />
+
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:gravity="center">
+
+
+            <ImageButton
+                android:id="@+id/cal"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:layout_margin="20dp"
+                android:background="@drawable/b_cal"
+                android:onClick="onClick"
+                />
+
+            <ImageButton
+                android:id="@+id/rcp"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:layout_margin="20dp"
+                android:background="@drawable/b_game"
+                android:onClick="onClick"
+                />
+
+
+        </TableRow>
+
+        <TableRow
+            android:layout_height="match_parent"
+            android:gravity="center">
+
+            <ImageButton
+                android:id="@+id/light"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:layout_margin="20dp"
+                android:background="@drawable/b_flash"
+                android:onClick="onClick"
+                />
+
+
+            <ImageButton
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:layout_margin="20dp"
+                android:background="@drawable/a_add" />
+
+
+        </TableRow>
+
+    </TableLayout>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

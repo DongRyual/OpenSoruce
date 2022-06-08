@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kkc10/AndroidStudioProjects/Mainview/app/src/main/res/layout/acrivity_alram.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/kkc10/AndroidStudioProjects/Mainview/app/src/main/res/layout/activity_Flash.xml" value="0.1" />
+        <entry key="..\:/Users/kkc10/AndroidStudioProjects/Mainview/app/src/main/res/layout/activity_alarm.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/kkc10/AndroidStudioProjects/Mainview/app/src/main/res/layout/activity_cal.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/kkc10/AndroidStudioProjects/Mainview/app/src/main/res/layout/activity_flash.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/kkc10/AndroidStudioProjects/Mainview/app/src/main/res/layout/activity_game.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/kkc10/AndroidStudioProjects/Mainview/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/kkc10/AndroidStudioProjects/Mainview/app/src/main/res/layout/activity_stop.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/misu2/Desktop/coco/Mainview/app/src/main/res/layout/activity_intro.xml" value="0.22146739130434784" />
+        <entry key="..\:/Users/misu2/Desktop/coco/Mainview/app/src/main/res/layout/activity_main.xml" value="0.152" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

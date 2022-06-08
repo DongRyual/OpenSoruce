@@ -14,7 +14,7 @@
         android:layout_marginBottom="27dp"
         android:padding="5dp"
         android:textSize="60dp" />
-    <!--계산기 버튼을 구성할 table layout-->
+<!--계산기 버튼을 구성할 table layout-->
     <TableLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

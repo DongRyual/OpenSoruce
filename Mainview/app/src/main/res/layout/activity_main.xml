@@ -20,7 +20,7 @@
     <TableLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginBottom="131dp"
+        android:layout_marginBottom="110dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent">
@@ -35,21 +35,19 @@
 
             <ImageButton
                 android:id="@+id/alr"
-                android:layout_width="130dp"
-                android:layout_height="130dp"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
                 android:layout_margin="20dp"
                 android:background="@drawable/b_ala"
-                android:onClick="onClick"
-                />
+                android:onClick="onClick" />
 
             <ImageButton
                 android:id="@+id/stp"
-                android:layout_width="130dp"
-                android:layout_height="130dp"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
                 android:layout_margin="20dp"
                 android:background="@drawable/b_stop"
-                android:onClick="onClick"
-                />
+                android:onClick="onClick" />
 
 
         </TableRow>
@@ -61,8 +59,8 @@
 
             <ImageButton
                 android:id="@+id/cal"
-                android:layout_width="130dp"
-                android:layout_height="130dp"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
                 android:layout_margin="20dp"
                 android:background="@drawable/b_cal"
                 android:onClick="onClick"
@@ -70,8 +68,8 @@
 
             <ImageButton
                 android:id="@+id/rcp"
-                android:layout_width="130dp"
-                android:layout_height="130dp"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
                 android:layout_margin="20dp"
                 android:background="@drawable/b_game"
                 android:onClick="onClick"
@@ -86,8 +84,8 @@
 
             <ImageButton
                 android:id="@+id/light"
-                android:layout_width="130dp"
-                android:layout_height="130dp"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
                 android:layout_margin="20dp"
                 android:background="@drawable/b_flash"
                 android:onClick="onClick"
@@ -95,8 +93,8 @@
 
 
             <ImageButton
-                android:layout_width="130dp"
-                android:layout_height="130dp"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
                 android:layout_margin="20dp"
                 android:background="@drawable/a_add" />
 

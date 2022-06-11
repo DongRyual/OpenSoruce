@@ -5,6 +5,8 @@ import android.app.DatePickerDialog;
 import android.app.PendingIntent;
 import android.content.Intent;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.constraintlayout.widget.ConstraintLayout;
+
 import android.os.Bundle;
 import android.view.View;
 import android.widget.DatePicker;
@@ -86,6 +88,7 @@ public class alarm extends AppCompatActivity {
         // Toast 보여주기 (알람 시간 표시)
         SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss", Locale.getDefault());
         Toast.makeText(this, "Alarm : " + format.format(calendar.getTime()), Toast.LENGTH_LONG).show();
+
     }
 
     View.OnClickListener mClickListener = new View.OnClickListener() {

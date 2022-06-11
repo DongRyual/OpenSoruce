@@ -11,6 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="알람 종료"
+        android:background="@color/blue4"
         />
 
 </LinearLayout>

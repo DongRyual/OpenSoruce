@@ -10,7 +10,7 @@
         android:id="@+id/timePicker"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        />
+        android:headerBackground="@color/blue1"/>
 
     <LinearLayout
         android:orientation="horizontal"
@@ -37,7 +37,8 @@
         <Button
             android:id="@+id/btnCalendar"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
+            android:background="@color/blue4"
             android:text="달력"
             />
 
@@ -55,6 +56,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="알람 설정"
+            android:background="@color/blue4"
+
             />
 
     </LinearLayout>

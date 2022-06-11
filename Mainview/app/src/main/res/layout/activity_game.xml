@@ -46,7 +46,7 @@
             android:layout_weight="25"
             android:src="@drawable/com_gawe"
             android:scaleType="fitCenter"
-            android:backgroundTint="#FFEB3B"
+            android:backgroundTint="#CBD0EC"
             android:id="@+id/gawe_button"
             android:onClick="button_click"/>
         <ImageButton
@@ -55,7 +55,7 @@
             android:layout_weight="25"
             android:src="@drawable/com_bawe"
             android:scaleType="fitCenter"
-            android:backgroundTint="#FFEB3B"
+            android:backgroundTint="#CBD0EC"
             android:id="@+id/bawe_button"
             android:onClick="button_click"/>
         <ImageButton
@@ -64,7 +64,7 @@
             android:layout_weight="25"
             android:src="@drawable/com_bo"
             android:scaleType="fitCenter"
-            android:backgroundTint="#FFEB3B"
+            android:backgroundTint="#CBD0EC"
             android:id="@+id/bo_button"
             android:onClick="button_click"/>
         <ImageButton
@@ -73,7 +73,7 @@
             android:layout_weight="25"
             android:src="@drawable/ic_baseline_replay1_24"
             android:scaleType="fitCenter"
-            android:backgroundTint="#FFEB3B"
+            android:backgroundTint="#CBD0EC"
             android:id="@+id/replay_button"
             android:onClick="button_click"/>
 

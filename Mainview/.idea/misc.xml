@@ -3,6 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/82106/Mainview/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2235" />
+        <entry key="..\:/Users/82106/Mainview/app/src/main/res/drawable/CONVE_icon_background.xml" value="0.1" />
+        <entry key="..\:/Users/82106/Mainview/app/src/main/res/drawable/design.xml" value="0.2235" />
+        <entry key="..\:/Users/82106/Mainview/app/src/main/res/drawable/design2.xml" value="0.2235" />
+        <entry key="..\:/Users/82106/Mainview/app/src/main/res/drawable/drawable_round.xml" value="0.2235" />
+        <entry key="..\:/Users/82106/Mainview/app/src/main/res/drawable/hand_anim.xml" value="0.2235" />
+        <entry key="..\:/Users/82106/Mainview/app/src/main/res/drawable/ic_baseline_replay1_24.xml" value="0.2235" />
+        <entry key="..\:/Users/82106/Mainview/app/src/main/res/drawable/ic_baseline_replay_24.xml" value="0.2235" />
+        <entry key="..\:/Users/82106/Mainview/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2235" />
+        <entry key="..\:/Users/82106/Mainview/app/src/main/res/layout/activity_alarm.xml" value="0.1" />
+        <entry key="..\:/Users/82106/Mainview/app/src/main/res/layout/activity_cal.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/82106/Mainview/app/src/main/res/layout/activity_game.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/82106/Mainview/app/src/main/res/layout/activity_intro.xml" value="0.11955420466058764" />
+        <entry key="..\:/Users/82106/Mainview/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/82106/Mainview/app/src/main/res/layout/activity_main_alarm.xml" value="0.1" />
+        <entry key="..\:/Users/82106/Mainview/app/src/main/res/layout/activity_stop.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/82106/Mainview/app/src/main/res/mipmap-anydpi-v26/CONVE_icon.xml" value="0.1" />
+        <entry key="..\:/Users/82106/Mainview/app/src/main/res/mipmap-anydpi-v26/conve_icon_round.xml" value="0.1" />
         <entry key="..\:/Users/kkc10/AndroidStudioProjects/Mainview/app/src/main/res/layout/acrivity_alram.xml" value="0.12604166666666666" />
         <entry key="..\:/Users/kkc10/AndroidStudioProjects/Mainview/app/src/main/res/layout/activity_Flash.xml" value="0.1" />
         <entry key="..\:/Users/kkc10/AndroidStudioProjects/Mainview/app/src/main/res/layout/activity_alarm.xml" value="0.25364583333333335" />
